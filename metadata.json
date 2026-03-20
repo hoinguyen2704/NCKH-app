@@ -1,0 +1,5 @@
+{
+  "name": "Remix: RepurposAI",
+  "description": "Drug Repurposing Recommendation System using AI to suggest existing drugs for new disease treatments.",
+  "requestFramePermissions": []
+}
